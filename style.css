@@ -257,7 +257,7 @@ h6{
         width: 90% !important;
     }
 
-    img{
+    form img{
         height: 50px !important;
         width: 50px !important;
         margin-bottom: 2rem;
@@ -291,6 +291,10 @@ h6{
 
     .hidden{
         display: none;
+    }
+
+    .token-flex{
+        padding: .4rem !important;
     }
 
 
@@ -330,7 +334,7 @@ h6{
     .nav-link i{
         font-size: 25px;
         margin-top: 1.2rem;
-        color: #fff;
+        color: #444242;
     }
 
     .page{
@@ -346,6 +350,8 @@ h6{
     .coins-tab{
         padding: 1rem;
     }
+
+    
 
     
 }
@@ -411,9 +417,7 @@ header .logo img{
 
 
 .page{
-    /* width: 100%; */
     margin-left: 25rem;
-    height: 100vh;
     text-align: center;
     display: flex;
     flex-direction: column;
