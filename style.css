@@ -344,8 +344,7 @@ h6{
 
     .card{
         width: fit-content !important;
-        width: 340px !important;
-        padding: 2rem 3rem !important;
+        padding: 1rem 2rem !important;
     }
 
     .coins-tab{
@@ -440,8 +439,8 @@ header .logo img{
     border-radius: 10px;
     background: linear-gradient(to right, #d485b1, #6264df, #c0739d, #7375e9 );
     box-shadow: 0 5px 15px rgba(0, 0, 0, 0.35);
-    padding: 1rem;
-    width: 350px;
+    padding: 1rem 3rem;
+    /* width: 350px; */
     color: #fff;
     margin-bottom: 4rem;
 }
